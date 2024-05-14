@@ -1,9 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Viv ✌</h1>
 
-I am a software engineer, with a keen interest in technology and a drive to learn. I am passionate about software engineering and design, and look forward to working on new professional projects in the future.
+<a href="https://www.linkedin.com/in/vivien-croggon/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-I began studying Python in early 2023, utilising lectures provided by Massachusetts Institute of Technology Open Courseware, before completing an Introduction to JavaScript course with Code First Girls, in which I also learned HTML and CSS. During this course I built a movie quiz app, and received a certificate for being a highly commended candidate. I am currently enrolled in a software engineering bootcamp with HyperionDev, with an average grade of 100%.
+I am a software engineer, with a keen interest in technology and a drive to learn. I particularly enjoy web development and design, and love to utilise my creativity ✨
+### Education:
+📚 currently enrolled on the Code First Girls Degree in Software Engineering</br>
+🎓 completed Software Engineering bootcamp with CoGrammar</br>
+💫 awarded certificate as Highly Commended Candidate on completion of Intro to JavaScript bootcamp with Code First Girls
 
-In my spare time I enjoy running and cycling, using races to raise money for charity. In 2022 I raised over £600 for CALM running the Great South Run, and partook in a 50 mile bicycle race, raising money for Challengers Farnham. 
 
-Please don’t hesitate to get in touch, I am always open to make more connections and expand my network. 
+### Currently working with:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git)](https://skillicons.dev)
+
+### Currently learning:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,react)](https://skillicons.dev)
+
+### About me:
+In my spare time I enjoy:</br>
+🏃🏻‍♀️ running</br>
+🚲 cycling</br>
+⛰️ hiking</br>
+📖 reading</br>
+🎨 art
+
