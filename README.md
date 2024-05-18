@@ -17,7 +17,7 @@ In my spare time I enjoy:</br>
 
 ### Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,react,flask)](https://skillicons.dev)
 
 ### Education:
 📚 currently enrolled on the Code First Girls degree in Software Engineering</br>
